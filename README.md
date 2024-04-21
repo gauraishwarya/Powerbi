@@ -19,6 +19,7 @@
 ##### 4) Sales and profit exhibit seasonality, with peaks during festive seasons, suggesting the effectiveness of promotions during these periods.
 ##### 5) The East region generates the highest profits for the Superstore, indicating potential areas for expansion or investment.
 ##### 6) Standard delivery is the preferred option despite other faster delivery choices, prompting a review of delivery fees for faster options.
+##### 8) Forecasting suggests continued sales growth in the upcoming 15 days, providing insights for inventory management and resource allocation.
 ##### 7) Overall, these insights can guide strategic decisions to capitalize on strengths, address weaknesses, and drive further growth for the Superstore.
 ## Learning:-
 ##### Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
