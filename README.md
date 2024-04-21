@@ -7,11 +7,9 @@
 - ##### To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 ## Description:-
 ##### 1) Dashboard creation: Identify the KPIs, design an intutive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various level of granularity.
-##### 2) There are very rare cases that a match will tie or end with no results.
-##### 3) Mumbai Indians win the toss most of the time followed by Kolkata Knight Riders.
-##### 4) Batting first: - 
-##### Most of the team wins by runs range between 0-20.
-##### It is very rare that a team wins by 60+ runs.
+##### 2) Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their sales stratigies through visualization and charts.
+##### 3) Sakes Forecasting: Leverage history data and apply time series analysis to generate forecasts for next 15 days.
+##### 4) Actionable Insights and Recommendations: Rnd goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goal for growth, efficiency, and customer satisfaction.
 ## Tech Stack Used:-
 ![Techstack](https://github.com/gauraishwarya/Project-Images/blob/main/IPL%20EDA.png?raw=true)
 ## Conclusions:-
