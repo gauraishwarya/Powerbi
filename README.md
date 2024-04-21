@@ -8,7 +8,7 @@
 ##### 3) Sakes Forecasting: Leverage history data and apply time series analysis to generate forecasts for next 15 days.
 ##### 4) Actionable Insights and Recommendations: Rnd goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goal for growth, efficiency, and customer satisfaction.
 ## Tech Stack Used:-
-![Techstack](https://github.com/gauraishwarya/Project-Images/blob/main/IPL%20EDA.png?raw=true)
+![Techstack](https://github.com/gauraishwarya/Project-Images/blob/main/Power%20Bi%20icon.png?raw=true)
 ## Insights:-
 ##### 1) Overall sales and profit have shown an upward trend over the two-year period, indicating positive growth for the business.
 ##### 2) Consumer segment contributes significantly to sales, suggesting a focus on targeting this demographic for further growth opportunities.
