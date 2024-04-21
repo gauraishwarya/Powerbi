@@ -5,7 +5,7 @@
 ## Description:-
 ##### 1) Dashboard creation: Identify the KPIs, design an intutive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various level of granularity.
 ##### 2) Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their sales stratigies through visualization and charts.
-##### 3) Sakes Forecasting: Leverage history data and apply time series analysis to generate forecasts for next 15 days.
+##### 3) Sales Forecasting: Leverage history data and apply time series analysis to generate forecasts for next 15 days.
 ##### 4) Actionable Insights and Recommendations: Rnd goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goal for growth, efficiency, and customer satisfaction.
 ## Tech Stack Used:-
 ![Techstack](https://github.com/gauraishwarya/Project-Images/blob/main/Power%20Bi%20icon.png?raw=true)
