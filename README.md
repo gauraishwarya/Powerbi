@@ -1,10 +1,17 @@
 # Exploratory Data Analysis
-![image](https://github.com/gauraishwarya/Project-Images/blob/main/IPL%20EDA%202.png?raw=true)
+![image](link past here)
 
 
 
 ## Objective:-
 - ##### To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
+## Description:-
+##### 1) Dashboard creation: Identify the KPIs, design an intutive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various level of granularity.
+##### 2) There are very rare cases that a match will tie or end with no results.
+##### 3) Mumbai Indians win the toss most of the time followed by Kolkata Knight Riders.
+##### 4) Batting first: - 
+##### Most of the team wins by runs range between 0-20.
+##### It is very rare that a team wins by 60+ runs.
 ## Tech Stack Used:-
 ![Techstack](https://github.com/gauraishwarya/Project-Images/blob/main/IPL%20EDA.png?raw=true)
 ## Conclusions:-
