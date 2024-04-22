@@ -20,4 +20,4 @@
 ##### 7) Overall, these insights can guide strategic decisions to capitalize on strengths, address weaknesses, and drive further growth for the Superstore.
 ## Learning:-
 ##### Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
-![image](https://github.com/gauraishwarya/Project-Images/blob/main/IPL%20EDA%203.png?raw=true)
+![image](https://github.com/gauraishwarya/Project-Images/blob/main/Superstore%20dashboard%202.png)
