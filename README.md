@@ -1,5 +1,5 @@
 # Exploratory Data Analysis
-![image](https://github.com/gauraishwarya/Project-Images/blob/main/Power%20Bi%20icon.png?raw=true)
+![image](https://github.com/gauraishwarya/Project-Images/blob/main/Superstore%20dashboard.png)
 ## Objective:-
 - ##### To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 ## Description:-
